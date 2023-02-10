@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashi Gupta</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="left">Hi 👋, I'm Shashi Gupta</h1>
+<h3 align="left">A passionate Software developer</h3>
 
 - 💬 I’m currently working in a team called as [Scantix](https://github.com/Scantix)
 
