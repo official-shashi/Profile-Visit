@@ -82,7 +82,8 @@
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=official-shashi&show_icons=true&theme=radical" alt="Shashi's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-shashi&theme=radical" alt="GitHub Contributions" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-shashi&layout=compact&theme=radical" alt="Most Used Languages" height="150"/>
+
 </p>
 
 ---
