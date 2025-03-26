@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shashi Gupta</h1>
+<h1 align="left">Hi 👋, I'm SHASHI GUPTA</h1>
 <h3 align="left">A Passionate Flutter Developer | Mobile & Web App Developer</h3>
 
 <p align="left">
