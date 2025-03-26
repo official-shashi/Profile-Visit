@@ -2,17 +2,17 @@
 <h3 align="left">A Passionate Flutter Developer | Mobile & Web App Developer</h3>
 
 <p align="left">
-  I specialize in cross-platform mobile and web app development using Flutter. With hands-on experience in building scalable applications, API integration, and deploying apps on **Google Play Store, Apple App Store, and the Web**, I ensure smooth user experiences across all platforms.
+  I specialize in cross-platform mobile and web app development using Flutter. With hands-on experience in building scalable applications, API integration, and deploying apps on <b>Google Play Store, Apple App Store, and the Web</b>, I ensure smooth user experiences across all platforms.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Currently developing apps for **Android, iOS, and Web** using **Flutter**.
-- 📱 Experienced in deploying apps on **Google Play Console & Apple App Store**.
-- 💡 Strong expertise in **GetX, Provider, REST API, Firebase, and Payment Gateway Integration**.
+- 🚀 Currently developing apps for <b>Android, iOS, and Web</b> using <b>Flutter</b>.
+- 📱 Experienced in deploying apps on <b>Google Play Console & Apple App Store</b>.
+- 💡 Strong expertise in <b>GetX, REST API, Firebase, and Payment Gateway Integration</b>.
 - 🔍 Passionate about solving complex problems and optimizing app performance.
-- 📫 Reach me at **guptashashi7574@gmail.com**
+- 👯 Reach me at <b>guptashashi7574@gmail.com</b>
 
 ---
 
@@ -61,7 +61,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
+
+#### 🏢 **Client Projects**
+- 📝 <b>Create Receipt</b> - A digital receipt generation app for businesses.
+- 📊 <b>Vina Q Project</b> - A hospital OPD management app with Admin & User panels.
+
+#### 📌 **Personal Projects**
+- 🦠 <b>[COVID-19 Tracker](https://github.com/official-shashi/covid19-tracker)</b> - Real-time COVID-19 statistics and updates.
+- 📰 <b>[News Application](https://github.com/official-shashi/news_app)</b> - A dynamic news app with multiple categories and sources.
+- 📚 <b>[Student Attendance App](https://github.com/official-shashi/student-attendance)</b> - Manage student attendance using Firebase.
+- 🎨 <b>[Wallpaper App](https://github.com/official-shashi/wallpaper_app)</b> - A high-quality wallpaper browsing application.
+- 🎲 <b>[Dice Roll](https://github.com/official-shashi/dice_roll)</b> - A fun dice rolling app.
+- 🫠 <b>[Calculator](https://github.com/official-shashi/calculator)</b> - A simple and functional calculator app.
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=official-shashi&show_icons=true&theme=radical" alt="Shashi's GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-shashi&theme=radical" alt="Shashi's GitHub Streak" height="150"/>
@@ -69,12 +85,4 @@
 
 ---
 
-### 🚀 Featured Projects
-- [🌱 Plant Identifier](https://github.com/official-shashi/plant_identifier) - AI-powered plant identification app using Pl@ntNet API.
-- [📰 News App](https://github.com/official-shashi/news_app) - Flutter-based news app with dynamic content updates.
-- [🎨 Wallpaper App](https://github.com/official-shashi/wallpaper_app) - Wallpaper browsing app with API integration.
-- [📊 Task Manager](https://github.com/official-shashi/task_manager) - Task management app with Firebase authentication.
-
----
-
-⭐ **If you find my work helpful, consider giving a star to my repositories!** 😊
+🌟 <b>If you find my work helpful, consider giving a star to my repositories!</b> 😊
