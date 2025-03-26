@@ -30,41 +30,34 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank">
+   <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-    <br/>Flutter
   </a> 
   <a href="https://dart.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-    <br/>Dart
   </a> 
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    <br/>Firebase
   </a> 
-  <a href="https://developer.apple.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" width="40" height="40"/>
-    <br/>iOS
-  </a> 
+ <a href="https://developer.apple.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" 
+         alt="iOS" width="40" height="40" 
+         style="filter: invert(16%) sepia(95%) saturate(7433%) hue-rotate(358deg) brightness(92%) contrast(123%);"/>
+</a>
   <a href="https://developer.android.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-    <br/>Android
   </a> 
   <a href="https://pub.dev/packages/get" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/42130300?s=200&v=4" alt="GetX" width="40" height="40"/>
-    <br/>GetX
   </a>
   <a href="https://pub.dev/packages/provider" target="_blank">
     <img src="https://developer.android.com/static/images/jetpack/jetpack-compose.svg" alt="Provider" width="40" height="40"/>
-    <br/>Provider
   </a> 
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <br/>Postman
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <br/>MySQL
   </a>
 </p>
 
